@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Elijah!
 
 - 🔭 I’m currently working on my website and a MERN stack website for my school.
 - 🌱 I’m currently learning better Web Development practices.
