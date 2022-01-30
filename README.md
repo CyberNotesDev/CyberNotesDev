@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my website and a MERN stack website for my school.
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on anything involving Web Development, Python, and a little C++.
+- 🤔 I’m looking for help with tips on anything to make me a better developer.
+- 💬 Ask me about anything!
+- 📫 How to reach me: Instagram!
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I like to sleep and I like cats.
+
 <!--
 **CyberNotesDev/CyberNotesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
