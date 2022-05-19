@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Elijah!
 
-- 🔭 I’m currently working on my website and a MERN stack website for my school.
-- 🌱 I’m currently learning better Web Development practices.
+- 🔭 I’m currently working on makinga silly website of my intrests.
+- 🌱 I’m currently learning alot of things!
 - 👯 I’m looking to collaborate on anything involving Web Development, and C++.
 - 🤔 I’m looking for help with tips on anything to make me a better developer.
 - 💬 Ask me about anything!
