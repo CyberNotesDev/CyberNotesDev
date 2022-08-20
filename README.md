@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with tips on anything to make me a better developer.
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Instagram](https://instagram.com/CyberNotesDev)
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like to sleep and I like cats.
 
 <!--
